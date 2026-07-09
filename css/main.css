@@ -3389,7 +3389,7 @@ body{
 .ceo-image img{
 
     width:230px;
-    height:280px;
+    height:auto;
 
     object-fit:cover;
 
